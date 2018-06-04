@@ -4,11 +4,11 @@ Head over to our [developer site](https://discordapp.com/developers/applications
 
 ```json
 {
-  "id": "152638009253036032",
+  "id": "453227056483008512",
   "name": "OAuth2 Test",
   "description": "",
   "icon": null,
-  "secret": "p6KNMamrU5OVWtZiFe2kSkhx3Amxm0xB",
+  "secret": "k7-AoQvFsIFwVvjK1ANtZi05UHIyjVn-",
   "redirect_uris": ["http://localhost:5000/callback"],
 }
 ```
